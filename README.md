@@ -1,4 +1,4 @@
-# Image Retrieval System Using InceptionV3 and NLP Techniques
+# Multimodal Retrieval System Using InceptionV3 and NLP Techniques
 
 ## Overview
 
